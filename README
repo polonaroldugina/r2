@@ -1,3 +1,4 @@
-Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
-
-You must receive some image as in demo branch
+Данный проект представляет собой игру "Hit the Ball", написанную на языке Python, с использованием pygame. 
+Суть игры состоит в том, чтобы защищаться от шаров, летящих на героя.
+Управление осуществляется с клавиатуры - клавиши-стрелки используются для перемещения и пробел - для выстрелов. Есть система подсчёта количества набранных в течение игры очков.
+Проект необходимо запустить через файл HTB.py
